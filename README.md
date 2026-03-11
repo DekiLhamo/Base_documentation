@@ -4,9 +4,6 @@ I am using GitLab for the first time and at the beginning it felt very complicat
 The first thing I learned was how to update my personal information and upload pictures in the About Me section of my GitLab profile. This section allows users to introduce themselves and show some information about their work or interests.
 While working on my profile, I found that uploading pictures in GitLab using links from Google Drive is quite easy once you understand the steps.
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1kL6l2g6ZoxdR_IyPwAN7nZ3xOaLe_HZt&sz=w400" alt="Profile Photo">
-
-
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1de2xeIXV8YE6xhQ2UVHCm5CIF3yrAqW7&sz=w400" alt="Profile Photo">
 
 Firstly, we have to select a photo in Google Drive and then go to the Share option and copy the link of the image.
