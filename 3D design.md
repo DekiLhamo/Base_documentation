@@ -22,8 +22,6 @@ Firstly, I started by drawing the shape of the bottle from one side using the Sk
 
 <img class="profile-photo" src="https://drive.google.com/thumbnail?id=1TGJgEwmx3vQvQCmVjg_K-ZTGJjufJK6f&sz=w400" alt="Profile Photo">
 
-
-
 After finishing the sketch of the bottle shape, I used the Revolve tool. This tool rotates the sketch around a center axis to create a complete 3D object. By revolving the half shape I drew earlier, the bottle became a full 3D model.
 
 
